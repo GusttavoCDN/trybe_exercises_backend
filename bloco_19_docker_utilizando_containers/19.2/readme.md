@@ -1,7 +1,11 @@
 # Dia 19.2 - Criando Imagens com DOCKERFILE
 
 
+## Aprendizados do Dia
 
+- Como criar imagens com Dockerfile
+- Manipulação de Containers
+- Criação de Container com binds e volumes
 ## Material de Referência
 
 - [Docker - Limpando contêineres, imagens e volumes](https://www.macoratti.net/19/02/dock_limp1.htm)
