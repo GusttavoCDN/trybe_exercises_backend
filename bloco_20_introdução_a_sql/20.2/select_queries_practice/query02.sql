@@ -1,0 +1,1 @@
+SELECT 'Gustavo' AS name, 'Silva' AS lastname, 25 AS age, 'Estudante' AS role; 
