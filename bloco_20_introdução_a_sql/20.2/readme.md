@@ -15,3 +15,6 @@
 
 ## Material de Refêrencia
 
+- [W3Schools - Curso SQL online](https://www.w3schools.com/sql/)
+- [Tutorial sobre tipos de comando SQL do W3Schools](https://www.w3schools.in/mysql/ddl-dml-dcl/)
+- [Tutorial sobre tipos de comando SQL do Java T Point](https://www.javatpoint.com/dbms-sql-command)
