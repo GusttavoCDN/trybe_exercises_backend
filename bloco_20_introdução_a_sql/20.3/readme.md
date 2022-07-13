@@ -9,3 +9,6 @@
 - Encontrar e separar resultados que incluem datas.
 
 ## Material de Referência
+
+- [Lidando com datas no MySQL](https://www.w3resource.com/mysql/mysql-tutorials.php)
+- [Dates are more troublesome than they seem!](https://www.youtube.com/watch?v=-5wpm-gesOY)
