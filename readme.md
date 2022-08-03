@@ -33,8 +33,8 @@ Este repositório contém as atividades de aprendizagem desenvolvidas por [Gusta
 
 #### [Bloco 22: Introdução ao desenvolvimento Web com Node.js]
 
-* [ ] 22.1: Node.js - Um motor JavaScript
-* [ ] 22.2: Node.js - Fluxo Assíncrono
+* [x] 22.1: Node.js - Um motor JavaScript
+* [x] 22.2: Node.js - Fluxo Assíncrono
 * [ ] 22.3: Mocha, Chai e Sino - Testes de Back-end com Node.js
 * [ ] 22.4: Express - HTTP com Node.js
 * [ ] 22.5: Express - Middlewares
